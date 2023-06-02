@@ -1,6 +1,6 @@
 <section class="formulario mb-2 rounded" id="proponente">
     <img src="../img/idea_lg.svg" alt="">
-    <h2>Faça sua Proposta</h2>
+    <h2>Transforme sua Ideia em Negócio</h2>
     <p> Você tem uma ideia e quer transformá-la em realidade, conte com a nossa equipe Unitech.</p>
     <div class="d-flex align-items-center">
         <form class="row g-3 text-start" id="f_proponente">
