@@ -54,8 +54,8 @@
                 </li>
             </ul>
             <form class="d-flex m-0" role="search">
-                <input class="form-control me-2 bg-dark text-light" type="search" placeholder="Procurar" aria-label="Search">
-                <button class="btn btn-primary" type="submit">Procurar</button>
+                <input class="form-control me-2 bg-dark text-black" type="search" placeholder="Procurar" aria-label="Search">
+                <button class="btn btn-outline-light"  type="submit">Procurar</button>
             </form>
         </div>
     </div>
