@@ -1,7 +1,7 @@
 @include('template.header')
 @include('template.nav')
 <main class="p-4 text-center text-light mt-5">
-    <h2 class="p-4 text-light" style="font-family: Nunito;">Faça parte dos nossos projetos</h2>
+    <h2 class="p-4 text-black" style="font-family: Nunito;">Faça parte dos nossos projetos</h2>
     <div class="row">
         <div class="col mb-2">
             <div class="card-formulario">

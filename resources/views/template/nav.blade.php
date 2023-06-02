@@ -1,6 +1,8 @@
 <nav class="navbar align-items-center py-0 mb-0 navbar-expand-lg navbar-dark position-relative">
     <div class="container-fluid">
-        <a class="navbar-brand" href="./">
+        <!--Remoção da classe para ficar sem a logo da unitech/ser alterado futuramente
+         class="navbar-brand" -->            
+        <a  href="./">
             <h1>UniTech</h1>
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
