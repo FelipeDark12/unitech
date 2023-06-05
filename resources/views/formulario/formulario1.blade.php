@@ -1,5 +1,5 @@
 <section class="formulario mb-2 rounded" id="estudante">
-    <img src="../img/education_lg.svg" alt="">
+    <!--<img src="../img/education_lg.svg" alt="">-->
     <h2>Inscrição para estudantes Unisales </h2>
     <p>Se você é aluno unisales e tem interesse em participar em um dos nossos projetos, faça já sua inscrição, preencha os campos abaixo e logo entraremos em contato.</p>
     <div class="row d-flex flex-column-reverse flex-md-row align-items-center">
