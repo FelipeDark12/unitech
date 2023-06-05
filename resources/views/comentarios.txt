@@ -1,0 +1,7 @@
+Retirada dos includes das paginas
+pagina proponente:
+@include('template.nav') 
+
+pagina estudante:
+<!-- <br>
+    @include('formulario.formulario2') -->
